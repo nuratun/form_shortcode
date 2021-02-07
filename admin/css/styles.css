@@ -1,0 +1,10 @@
+.div-container {
+  background: #ECECEC;
+  margin: auto auto;
+  padding: 20px 40px;
+  border: 1px solid #CCC;
+}
+
+.field-input-section {
+  margin: 20px auto;
+}
